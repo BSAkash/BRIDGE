@@ -1,0 +1,4 @@
+class,spearman_r,p_value,interpretation
+antibias,-0.381,0.3518,capability helps
+harmful,0.6429,0.0856,scaling makes it worse
+harmless,-0.619,0.1017,capability helps

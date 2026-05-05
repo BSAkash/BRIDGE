@@ -1,0 +1,9 @@
+model,macro_F1,rank
+Gemini 3.1 Pro Preview,0.6371,1
+GPT-5.4,0.6359,2
+Claude Sonnet 4.6,0.6178,3
+Qwen 2.5 72B Instruct 4-bit,0.5927,4
+Llama 3.1 70B-Inst 4-bit,0.5749,5
+Gemma 2 9B Instruct 4-bit,0.561,6
+Llama 3.1 8B-Inst,0.4343,7
+Mistral 7B v0.3 Instruct,0.4133,8
